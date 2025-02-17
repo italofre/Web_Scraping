@@ -44,6 +44,7 @@ Após a execução bem-sucedida, um arquivo results.json será gerado com os dad
 
 O script salva os dados coletados no arquivo results.json no seguinte formato:
 
+```JSON
 [
     {
         "Title": "Título da Notícia 1",
@@ -54,6 +55,7 @@ O script salva os dados coletados no arquivo results.json no seguinte formato:
         "Description": "Descrição da Notícia 2"
     }
 ]
+```
 
 🛠 Possíveis Problemas e Soluções
 
