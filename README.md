@@ -60,5 +60,7 @@ O script salva os dados coletados no arquivo results.json no seguinte formato:
 Equipe:
 
   Ítalo Mendes
+  
   Mateus Gabriel
+  
   Mateus Nunes
