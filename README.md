@@ -57,17 +57,8 @@ O script salva os dados coletados no arquivo results.json no seguinte formato:
 ]
 ```
 
-🛠 Possíveis Problemas e Soluções
+Equipe:
 
-Erro: ModuleNotFoundError: No module named 'selenium'👉 Execute pip install selenium para instalar a biblioteca.
-
-O script para com menos de 50 notícias👉 O site pode ter um número limitado de notícias. Verifique a saída do terminal para depuração.
-
-O botão "Veja Mais" não funciona👉 O site pode ter alterado a estrutura. Inspecione o HTML e ajuste os seletores no código.
-
-🤝 Contribuição
-
-Sinta-se à vontade para contribuir com melhorias! Faça um fork do repositório, crie uma branch e envie um pull request. 😊
-
-📝 Licença
-Este projeto é de uso acadêmico e não possui licença específica.
+  Ítalo Mendes
+  Mateus Gabriel
+  Mateus Nunes
